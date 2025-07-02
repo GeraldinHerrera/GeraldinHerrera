@@ -7,7 +7,6 @@
 ---
 
 ## 💻 Sobre Mí
-```txt
 Desarrolladora Web Full Stack 👩‍💻 
 Apasionada por crear soluciones dinámicas, escalables y con excelente experiencia de usuario.
 Siempre en búsqueda de aprender y mejorar mis habilidades.
