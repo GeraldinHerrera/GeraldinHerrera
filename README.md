@@ -1,37 +1,25 @@
-# 🌟 Bienvenid@ a mi perfil de GitHub
+<h2 align="center">
+    🌟 Hi, I'm Geraldin Herrera
+</h2>
+<br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Girl Gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFiczVibTVjbTlnc3V0MDN2dXptZnQzMXJmeDRienFscWttM2V4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Girl Gif"/>
 </div>
 
----
+<hr/>
+<h3>
+    🛠 Languages and Tools
+</h3>
 
-## 💻 Sobre Mí
-Desarrolladora Web Full Stack 👩‍💻 
-Apasionada por crear soluciones dinámicas, escalables y con excelente experiencia de usuario.
-Siempre en búsqueda de aprender y mejorar mis habilidades.
-🛠️ Tecnologías que manejo
-<div align="center">
-Frontend	Backend	Bases de Datos	Herramientas
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /> React	<img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" /> .NET C#	<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" /> SQL Server	<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /> Git
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" /> Angular	Node.js	MongoDB	REST APIs
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /> JavaScript			SignalR
-
-</div>
-🚀 Proyectos Destacados
-Proyecto	Descripción	Tecnologías
-🎯 Sistema de Tickets	Gestión en tiempo real de solicitudes con notificaciones instantáneas.	React · .NET · SignalR
-💼 Dashboard Corporativo	Visualización de datos y métricas de negocio en tiempo real.	Angular · Node.js · MongoDB
-🎨 Landing Pages Responsivas	Creación de páginas atractivas y adaptables a todos los dispositivos.	HTML · Tailwind · JavaScript
-
-🌱 En este momento aprendiendo:
-TypeScript
-
-Arquitectura de microservicios
-
-AWS
-
-📫 ¡Conectemos!
-<div align="center"> <a href="mailto:geraldin@email.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a> <a href="https://www.linkedin.com/in/geraldinherrera/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a> </div>
-📈 Mi GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geraldinherrera&show_icons=true&theme=radical" alt="GitHub Stats"/> </div>
+<div>
+<img src="https://img.icons8.com/color/56/000000/react-native.png" alt="React" /> 
+<img src="https://img.icons8.com/color/56/000000/angularjs.png" alt="Angular" /> 
+<img src="https://img.icons8.com/color/56/000000/javascript.png" alt="JavaScript" /> 
+<img src="https://img.icons8.com/color/56/000000/typescript.png" alt="TypeScript" />
+<img src="https://img.icons8.com/color/56/000000/net-framework.png" alt=".NET" /> 
+<img src="https://img.icons8.com/color/56/000000/c-sharp-logo.png" alt="C#" />
+<img src="https://img.icons8.com/color/56/000000/microsoft-sql-server.png" alt="SQL Server" />	
+<img src="https://img.icons8.com/color/56/000000/mongodb.png" alt="MongoDB"/>
+<img src="https://img.icons8.com/fluency/56/000000/redis.png" alt="Redis" />
+<img src="https://img.icons8.com/color/56/000000/gitlab.png" alt="GitLab" />
