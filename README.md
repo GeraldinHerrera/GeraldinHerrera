@@ -23,3 +23,14 @@
 <img src="https://img.icons8.com/color/56/000000/mongodb.png" alt="MongoDB"/>
 <img src="https://img.icons8.com/fluency/56/000000/redis.png" alt="Redis" />
 <img src="https://img.icons8.com/color/56/000000/gitlab.png" alt="GitLab" />
+
+## 📊 My GitHub Stats
+
+<div align="center">
+
+![GeraldinHerrera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeraldinHerrera&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldinHerrera&layout=compact&theme=radical)
+
+</div>
+
